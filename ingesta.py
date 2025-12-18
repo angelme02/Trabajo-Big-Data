@@ -2,7 +2,6 @@ import pandas as pd
 import os
 import re
 
-BASE_PATH = r"C:/Users/layca/Desktop/TRABAJO FINAL/"
 
 print("Iniciando proceso de ingesta...")
 
@@ -34,14 +33,14 @@ def validar_rut(rut):
 # LEER CSV
 # ============================
 print("Leyendo CSV...")
-df_csv = pd.read_csv(BASE_PATH + "clientes_info.csv")
+df_csv = pd.read_csv("clientes_info.csv")
 print("Columnas del CSV:", df_csv.columns)
 
 # ============================
 # LEER TXT
 # ============================
 print("Leyendo TXT...")
-df_txt = pd.read_csv(BASE_PATH + "clientes_extra.txt",
+df_txt = pd.read_csv("clientes_extra.txt",
                      header=None,
                      names=["codigo", "canal", "codigo_app", "fecha_registro"])
 print("Columnas del TXT:", df_txt.columns)
@@ -50,7 +49,7 @@ print("Columnas del TXT:", df_txt.columns)
 # LEER SQL
 # ============================
 print("Leyendo SQL...")
-sql_file = BASE_PATH + "clientes.sql"
+sql_file ="clientes.sql"
 rows = []
 
 with open(sql_file, "r", encoding="utf-8") as f:
@@ -96,7 +95,7 @@ df_total = df_total.merge(df_csv, on="codigo", how="left")
 # ============================
 # GUARDAR EN BRONZE
 # ============================
-output_dir = BASE_PATH + "bronze/ventas/"
+output_dir = "bronze/ventas/"
 os.makedirs(output_dir, exist_ok=True)
 
 df_total.to_csv(output_dir + "clientes_bronze.csv", index=False)
