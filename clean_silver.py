@@ -1,4 +1,3 @@
-# clean_silver_simple.py
 import csv
 from datetime import datetime
 import os
@@ -7,9 +6,8 @@ import re
 print("=== PROCESO DE LIMPIEZA SIMPLE (SILVER LAYER) ===")
 
 # Configurar rutas
-BASE_PATH = r"C:/Users/layca/Desktop/TRABAJO FINAL/"
-BRONZE_PATH = BASE_PATH + "bronze/ventas/clientes_bronze.csv"
-SILVER_PATH = BASE_PATH + "silver/ventas/"
+BRONZE_PATH = "bronze/ventas/clientes_bronze.csv"
+SILVER_PATH = "silver/ventas/"
 
 # Crear directorio silver si no existe
 os.makedirs(SILVER_PATH, exist_ok=True)
