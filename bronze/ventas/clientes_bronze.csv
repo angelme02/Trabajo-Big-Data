@@ -1,0 +1,501 @@
+codigo,nombre,apellido,comuna,rut,fecha_nacimiento,religion,rut_valido,campos_ok,canal,codigo_app,fecha_registro,tarjeta_beneficios,tipo_cliente,promedio_compras,tipo_alimentacion,tiempo_permanencia_min
+1,Felipe,Fuentes,Vitacura,1931858-3,1971-10-04,Atea,False,True, APP, XMOR34,2025-01-06,SI,3,397192,normal,15
+2,Javiera,Torres,Providencia,11577002-0,1974-04-07,Testigos de Jehová,False,True, LOCAL, MDSV31,2025-02-18,NO,4,36830,No Aplica,23
+3,Catalina,Vargas,Vitacura,13815734-2,1983-05-06,Atea,False,True, APP, ZPKO00,2024-08-21,SI,5,282014,vegetariano,20
+4,Daniel,González,Conchalí,11886940-0,1999-08-02,Agnóstica,False,True, APP, JOXK73,2024-06-28,SI,2,411091,vegetariano,31
+5,Francisca,Pérez,Las Condes,10052261-6,1996-03-22,Testigos de Jehová,False,True, AMBOS, MHDO60,2024-02-02,NO,3,804383,normal,33
+6,Francisca,Fuentes,Renca,15464064-9,1991-10-28,Católica,False,True, APP, TVTQ40,2024-02-25,NO,1,23105,No Aplica,55
+7,María,González,Las Condes,8332524-0,1990-11-18,Mormona,False,True, AMBOS, IXXJ16,2024-12-31,SI,3,616131,vegano,60
+8,Francisca,Contreras,Providencia,12919280-1,1992-10-10,Testigos de Jehová,False,True, LOCAL, ZXGQ07,2024-03-21,NO,5,113022,normal,37
+9,Camila,Vargas,Vitacura,18516059-9,1991-11-16,Atea,False,True, AMBOS, TALM09,2024-10-19,SI,3,480291,No Aplica,49
+10,Sebastián,Contreras,Providencia,1094578-K,1978-07-10,Agnóstica,False,True, LOCAL, RYXP12,2024-04-10,NO,4,221219,No Aplica,25
+11,Daniel,Silva,Conchalí,6332931-2,1975-03-22,Agnóstica,False,True, AMBOS, PWGV94,2024-11-28,SI,4,717537,vegetariano,56
+12,Carolina,Contreras,Las Condes,11123176-1,1984-10-21,Evangélica,False,True, LOCAL, PJEB94,2024-04-10,SI,2,594132,vegetariano,46
+13,María,Morales,Providencia,16203131-7,1989-06-05,Testigos de Jehová,False,True, APP, PQUX42,2024-04-01,NO,3,531171,No Aplica,11
+14,Tomás,Muñoz,Vitacura,3809545-5,1991-01-17,Atea,False,True, LOCAL, YBCC64,2024-05-10,NO,3,264756,vegano,58
+15,Daniel,Rodríguez,Renca,17069661-1,1980-01-02,Mormona,False,True, LOCAL, MZSV41,2024-01-30,SI,1,505813,normal,55
+16,Francisca,Fuentes,Providencia,5908140-3,1993-10-02,Evangélica,False,True, LOCAL, USAV58,2024-05-19,NO,5,413316,No Aplica,43
+17,Javiera,Vargas,Vitacura,14263321-3,1996-06-03,Católica,False,True, LOCAL, LCBM03,2024-03-12,NO,1,704141,No Aplica,44
+18,Carolina,Martínez,Vitacura,6773639-7,1978-03-12,Atea,False,True, LOCAL, KXSA25,2024-01-02,SI,4,884032,No Aplica,16
+19,Diego,González,Las Condes,12275812-5,2000-12-06,Mormona,False,True, AMBOS, YDZV45,2024-09-29,SI,4,190359,vegetariano,24
+20,Javiera,Torres,Providencia,14691846-8,1979-09-23,Atea,False,True, APP, PAUX97,2024-04-30,SI,4,233465,vegano,41
+21,Juan,Silva,Las Condes,13097922-K,1974-09-13,Católica,False,True, LOCAL, KIXE78,2024-11-18,NO,3,489120,normal,40
+22,María,Silva,Vitacura,10009674-9,1996-07-12,Mormona,False,True, LOCAL, HHCN55,2024-04-12,SI,4,198902,No Aplica,32
+23,María,Rodríguez,Renca,1224124-0,1992-08-04,Evangélica,False,True, APP, IFOH05,2024-08-21,NO,3,900358,vegetariano,29
+24,Camila,Rojas,Providencia,24892370-9,1996-07-24,Mormona,False,True, APP, XRNF34,2025-02-23,SI,4,395723,vegano,53
+25,Camila,Pérez,Providencia,3582157-0,1981-07-01,Católica,False,True, APP, IVUU64,2024-12-17,SI,2,976782,vegetariano,55
+26,Daniel,Morales,Conchalí,24804841-7,1989-03-14,Agnóstica,False,True, AMBOS, ALHO94,2025-01-11,NO,5,839209,vegano,17
+27,Daniel,Rojas,Vitacura,7333007-6,1995-01-03,Agnóstica,False,True, AMBOS, VCHO76,2024-09-27,SI,2,810752,normal,41
+28,Carolina,López,Renca,12749805-9,1991-06-13,Agnóstica,False,True, LOCAL, LNLP60,2025-01-19,NO,5,156405,normal,41
+29,Pedro,Soto,Providencia,4418405-2,1995-09-05,Evangélica,False,True, AMBOS, UQDN29,2024-07-02,SI,5,736638,vegano,42
+30,Sebastián,Rodríguez,Las Condes,4902389-8,1987-08-09,Evangélica,False,True, AMBOS, TTUA14,2024-11-16,SI,5,644311,vegano,43
+31,Diego,Rodríguez,Las Condes,16169589-0,1974-06-23,Agnóstica,False,True, LOCAL, PQCF66,2024-03-04,SI,2,541816,vegetariano,28
+32,Tomás,Vargas,Conchalí,9445066-7,1979-01-23,Evangélica,False,True, AMBOS, AUVP47,2024-11-15,SI,5,764816,normal,27
+33,Felipe,Vargas,Vitacura,1851519-9,1999-12-11,Católica,False,True, APP, RYWD86,2024-12-09,SI,2,354297,vegetariano,58
+34,María,Fuentes,Las Condes,12739429-6,1976-10-03,Católica,False,True, AMBOS, KTNF55,2024-01-01,SI,1,173850,vegano,46
+35,Tomás,González,Providencia,14104132-0,1982-08-15,Evangélica,False,True, AMBOS, MESL56,2024-10-04,NO,2,271605,normal,33
+36,Javiera,Torres,Renca,20366966-6,1971-04-22,Testigos de Jehová,False,True, LOCAL, CNRS86,2024-11-16,NO,3,378067,normal,49
+37,Tomás,Vargas,Conchalí,17732984-3,1974-04-22,Evangélica,False,True, AMBOS, WJKW44,2024-12-07,SI,4,497113,normal,60
+38,Daniel,González,Renca,20263247-5,1971-11-12,Atea,False,True, LOCAL, AYCO75,2024-01-25,SI,3,42966,vegano,33
+39,Camila,González,Las Condes,20034604-1,1988-06-18,Testigos de Jehová,False,True, AMBOS, XYLY54,2024-12-15,NO,2,294678,vegetariano,28
+40,Ana,Martínez,Providencia,4205495-K,1985-01-22,Mormona,False,True, APP, XPOX76,2024-06-11,NO,4,63089,normal,22
+41,Javiera,Torres,Conchalí,2016547-2,1986-10-01,Agnóstica,False,True, APP, WMRM85,2024-08-26,SI,2,774181,vegetariano,29
+42,Pedro,Soto,Vitacura,20606386-6,1977-12-07,Testigos de Jehová,False,True, APP, RSCB00,2024-08-13,NO,2,820911,No Aplica,56
+43,Javiera,Muñoz,Vitacura,5525157-6,1989-03-11,Evangélica,False,True, APP, PLIB97,2024-08-16,NO,5,231575,normal,56
+44,Sebastián,González,Vitacura,6780340-K,1995-10-03,Atea,False,True, APP, CVFK80,2024-03-04,NO,2,914008,No Aplica,15
+45,Catalina,González,Renca,22005462-4,1980-10-16,Mormona,False,True, APP, TWHK19,2024-10-03,NO,4,476224,normal,36
+46,Catalina,Vargas,Vitacura,17154041-0,1970-07-24,Agnóstica,False,True, APP, EHUG21,2024-11-11,SI,5,151318,normal,30
+47,María,Fuentes,Conchalí,8469827-K,1979-12-15,Agnóstica,False,True, LOCAL, WHNL89,2024-07-19,NO,3,819949,normal,15
+48,María,Díaz,Vitacura,6631073-6,1998-05-16,Agnóstica,False,True, LOCAL, XUKE10,2024-03-11,SI,3,694398,vegano,20
+49,Tomás,Silva,Renca,23957490-4,1976-08-19,Testigos de Jehová,False,True, APP, ZMKS15,2024-08-08,NO,2,136587,No Aplica,22
+50,María,Rojas,Vitacura,23110618-9,1989-02-16,Católica,False,True, APP, EQRD28,2025-01-26,NO,1,833412,normal,35
+51,Tomás,Vargas,Providencia,15590313-9,1997-09-08,Atea,False,True, LOCAL, TCBG95,2024-02-27,SI,2,150795,vegetariano,31
+52,Catalina,Morales,Renca,11281841-3,1977-01-13,Testigos de Jehová,False,True, APP, HQZD54,2024-02-06,NO,3,952147,vegetariano,15
+53,Sebastián,López,Las Condes,19280545-7,1982-08-25,Mormona,False,True, LOCAL, UROK26,2024-05-13,NO,5,973431,vegetariano,24
+54,Ana,Silva,Conchalí,14134029-8,1984-06-21,Católica,False,True, APP, VRGA28,2024-08-31,SI,2,48908,No Aplica,40
+55,Sebastián,López,Vitacura,9831946-8,1991-04-03,Mormona,False,True, AMBOS, ZLYX00,2024-01-27,SI,5,936270,vegano,56
+56,Sebastián,Silva,Renca,9968758-4,1971-10-17,Testigos de Jehová,False,True, LOCAL, EFRQ98,2024-06-24,SI,1,314467,No Aplica,57
+57,Juan,Contreras,Las Condes,21764166-7,1987-11-20,Evangélica,False,True, LOCAL, SQNB65,2024-08-08,NO,4,816415,vegano,45
+58,Diego,Contreras,Las Condes,6776270-3,1995-03-11,Atea,False,True, APP, UNXF23,2025-02-01,SI,2,525814,vegetariano,18
+59,Pedro,Morales,Conchalí,19024070-3,1999-01-18,Agnóstica,False,True, AMBOS, HDMB73,2024-04-14,NO,5,723360,normal,60
+60,Tomás,Soto,Conchalí,3499260-6,1999-02-03,Mormona,False,True, AMBOS, DXKF84,2024-05-23,NO,2,691100,vegano,39
+61,Juan,Soto,Las Condes,7147590-5,1987-07-23,Evangélica,False,True, LOCAL, VLYG36,2025-02-16,SI,2,341488,vegano,11
+62,Ana,Rodríguez,Conchalí,9402872-8,1976-08-17,Mormona,False,True, APP, TIXM21,2024-11-28,SI,4,550706,vegetariano,48
+63,Juan,Pérez,Vitacura,13638153-9,2000-06-01,Testigos de Jehová,False,True, APP, NPSM68,2024-07-27,SI,5,970380,vegetariano,26
+64,Catalina,López,Las Condes,19702781-9,1996-09-04,Atea,False,True, LOCAL, EPDV38,2024-10-10,NO,2,746005,vegano,26
+65,Diego,González,Providencia,4531020-5,1970-04-24,Evangélica,False,True, APP, KCGT84,2024-08-21,SI,4,492850,No Aplica,13
+66,Sebastián,López,Renca,18259427-K,1985-01-21,Católica,False,True, AMBOS, SRCQ96,2024-12-30,SI,4,694209,normal,50
+67,María,Rodríguez,Renca,11179958-K,1980-01-05,Agnóstica,False,True, AMBOS, OYFV84,2024-05-21,NO,3,585694,No Aplica,56
+68,Daniel,Muñoz,Las Condes,14878567-8,1974-08-08,Agnóstica,False,True, LOCAL, UMFL58,2024-04-07,NO,4,57768,No Aplica,38
+69,Catalina,Silva,Renca,8049622-2,1977-07-08,Agnóstica,False,True, LOCAL, NYTO11,2025-02-01,NO,5,61587,No Aplica,28
+70,Sebastián,Soto,Renca,6388922-9,1978-08-22,Testigos de Jehová,False,True, LOCAL, VQDD81,2024-04-08,NO,1,792326,normal,52
+71,Diego,Martínez,Las Condes,1978617-K,1996-10-27,Agnóstica,False,True, APP, XTTP93,2024-05-17,SI,4,225354,vegetariano,27
+72,Catalina,Torres,Las Condes,19388909-3,1976-09-20,Testigos de Jehová,False,True, APP, IYBI38,2024-01-12,SI,3,237354,normal,46
+73,Daniel,Torres,Las Condes,24743472-0,1985-10-03,Testigos de Jehová,False,True, AMBOS, GDJC59,2024-06-25,NO,5,173956,normal,50
+74,Carolina,Pérez,Conchalí,24419912-7,1996-05-05,Mormona,False,True, LOCAL, XUTT43,2024-05-12,NO,5,229081,vegano,38
+75,Tomás,Soto,Renca,8030593-1,1983-03-11,Atea,False,True, APP, DPFI12,2024-08-28,SI,4,823924,No Aplica,16
+76,Sebastián,Vargas,Conchalí,19559226-8,1987-11-28,Católica,False,True, AMBOS, NQUZ14,2024-11-16,SI,4,969002,vegetariano,54
+77,Javiera,Soto,Vitacura,13505942-0,1973-01-10,Agnóstica,False,True, APP, EEUM66,2024-04-26,NO,3,143067,vegetariano,46
+78,Diego,Vargas,Las Condes,5643154-3,1975-06-22,Testigos de Jehová,False,True, APP, PFLP05,2024-05-01,NO,4,485701,normal,38
+79,Carolina,López,Renca,1295698-3,1990-03-02,Agnóstica,False,True, AMBOS, ZTUN23,2024-08-02,SI,4,603056,vegano,42
+80,Juan,Díaz,Renca,20592667-4,1990-10-16,Católica,False,True, APP, VZSA22,2025-02-18,SI,3,238000,vegetariano,21
+81,Felipe,Rojas,Vitacura,5255439-K,1986-11-05,Mormona,False,True, AMBOS, CLEY61,2025-02-10,NO,2,637300,normal,56
+82,Sebastián,Soto,Providencia,11163655-9,1976-05-09,Agnóstica,False,True, LOCAL, JWEX96,2024-09-30,SI,3,888618,normal,11
+83,Ana,Pérez,Providencia,10744505-6,1993-12-10,Testigos de Jehová,False,True, AMBOS, UZDY45,2024-12-26,NO,3,734047,vegetariano,21
+84,Daniel,Rojas,Providencia,7119001-3,1971-05-10,Mormona,False,True, AMBOS, HKNO21,2025-01-21,SI,4,473736,normal,10
+85,Felipe,Silva,Providencia,12087739-9,1975-05-16,Católica,False,True, APP, MVPF19,2024-02-21,SI,1,779918,normal,48
+86,Carolina,Torres,Renca,1094109-1,1989-05-19,Agnóstica,False,True, APP, EWQG04,2024-02-09,SI,1,45211,vegano,34
+87,Felipe,López,Providencia,11676466-0,1998-11-24,Atea,False,True, APP, QWUL37,2024-05-03,NO,4,687791,vegetariano,55
+88,Diego,López,Conchalí,24179116-5,1972-12-27,Mormona,False,True, LOCAL, SOND23,2024-09-27,SI,4,779933,normal,20
+89,Felipe,Martínez,Vitacura,1768036-6,1984-11-02,Católica,False,True, AMBOS, XGII41,2024-03-06,SI,5,293281,normal,55
+90,Ana,González,Providencia,21763283-8,1990-06-06,Evangélica,False,True, LOCAL, TWDL37,2025-01-01,NO,3,45456,No Aplica,44
+91,Juan,Rodríguez,Providencia,1552359-K,1973-07-02,Evangélica,False,True, APP, YHPH49,2024-05-26,NO,1,89017,normal,25
+92,María,Rodríguez,Vitacura,8763332-2,1973-12-11,Mormona,False,True, LOCAL, HHZC42,2025-01-16,SI,3,831277,No Aplica,18
+93,Juan,Pérez,Las Condes,10434213-2,1988-09-01,Católica,False,True, AMBOS, CBVU07,2024-01-04,NO,2,878632,vegano,56
+94,Pedro,Muñoz,Conchalí,2378860-8,1993-02-15,Agnóstica,False,True, AMBOS, ITFX81,2024-01-30,NO,3,241416,vegano,58
+95,Francisca,Contreras,Conchalí,13567192-4,1997-06-04,Atea,False,True, LOCAL, FWCB76,2024-08-23,SI,3,974262,normal,28
+96,Javiera,Contreras,Conchalí,8620154-2,1975-09-17,Atea,False,True, AMBOS, UHZX16,2024-07-09,SI,2,204696,normal,48
+97,Felipe,Vargas,Conchalí,15824271-0,1987-09-08,Agnóstica,False,True, APP, BBHM64,2024-04-08,SI,5,375814,vegetariano,16
+98,Camila,Rodríguez,Renca,10700900-0,1986-12-01,Agnóstica,False,True, APP, WPKE11,2024-08-28,SI,2,574761,No Aplica,59
+99,Ana,López,Vitacura,21502931-K,1978-07-26,Mormona,False,True, AMBOS, EPYM34,2024-12-31,NO,4,791544,normal,48
+100,Ana,Muñoz,Providencia,11294669-1,1977-02-06,Evangélica,False,True, LOCAL, YMYH68,2024-01-07,NO,2,967512,vegano,12
+101,Camila,Soto,Las Condes,4313465-5,1998-10-14,Católica,False,True, APP, JWZB99,2025-01-06,SI,5,861064,vegano,57
+102,Valentina,González,Las Condes,1483691-8,1998-06-15,Atea,False,True, APP, RIIR27,2024-06-11,SI,5,21410,normal,35
+103,Pedro,Torres,Conchalí,8221368-6,1990-06-17,Atea,False,True, APP, KPUW30,2024-01-03,NO,3,639903,vegano,57
+104,Pedro,Muñoz,Providencia,17091800-2,1981-07-07,Testigos de Jehová,False,True, APP, OKOV56,2024-10-13,NO,5,588438,normal,45
+105,María,Fuentes,Renca,12159203-7,1983-04-09,Atea,False,True, AMBOS, SBNQ90,2024-11-26,NO,2,916162,No Aplica,13
+106,Felipe,Vargas,Las Condes,5828812-8,1993-05-18,Testigos de Jehová,False,True, AMBOS, TAFS27,2024-08-11,NO,2,742597,vegano,20
+107,Juan,González,Conchalí,8440222-2,1981-12-07,Mormona,False,True, AMBOS, DKDS00,2025-01-06,SI,2,604442,normal,17
+108,Pedro,González,Providencia,10434697-9,1997-08-14,Atea,False,True, APP, PMNG64,2024-05-23,SI,5,806914,normal,19
+109,Valentina,Fuentes,Vitacura,23300742-0,1975-06-04,Agnóstica,False,True, AMBOS, CQAM18,2024-06-21,NO,4,793534,No Aplica,36
+110,Diego,Fuentes,Providencia,12959300-8,1989-08-05,Evangélica,False,True, APP, DSPQ51,2024-09-29,SI,3,729754,normal,43
+111,Felipe,Pérez,Las Condes,16182360-0,1986-02-06,Testigos de Jehová,False,True, LOCAL, KSFX94,2024-11-07,SI,2,720046,vegano,13
+112,Catalina,Torres,Conchalí,18181991-K,1974-04-13,Católica,False,True, AMBOS, HWMO33,2024-10-02,SI,1,830064,vegano,10
+113,María,Torres,Providencia,20814629-7,1997-01-13,Testigos de Jehová,False,True, APP, NJBL78,2024-01-28,NO,4,397041,No Aplica,44
+114,Catalina,Martínez,Conchalí,9299324-8,1993-10-27,Católica,False,True, AMBOS, TXJD75,2024-12-06,NO,3,77526,vegetariano,41
+115,Felipe,Silva,Providencia,15992039-9,1984-04-11,Evangélica,False,True, APP, YUOS62,2024-10-05,NO,5,215988,normal,34
+116,Valentina,López,Conchalí,1923577-7,1990-09-18,Atea,False,True, LOCAL, LFSC20,2025-01-17,NO,2,564228,No Aplica,43
+117,Sebastián,Rodríguez,Renca,22263184-K,1972-12-23,Agnóstica,False,True, AMBOS, WESS74,2025-02-18,SI,2,961715,vegano,43
+118,Camila,Silva,Vitacura,17788627-0,1977-01-18,Agnóstica,False,True, APP, RKAO36,2024-02-21,NO,4,322401,vegetariano,30
+119,Diego,Díaz,Las Condes,19887598-8,1981-07-09,Testigos de Jehová,False,True, AMBOS, YCIZ51,2024-11-13,SI,3,103959,vegano,42
+120,Felipe,Morales,Las Condes,11007336-4,1994-05-04,Atea,False,True, LOCAL, GKTW27,2024-11-02,NO,2,610626,normal,51
+121,María,Torres,Vitacura,17189155-8,1995-04-13,Católica,False,True, AMBOS, LGKK17,2024-05-21,SI,1,371151,normal,42
+122,Ana,Díaz,Providencia,8863235-4,1978-10-03,Mormona,False,True, APP, HZJB10,2024-03-29,SI,1,128001,vegetariano,53
+123,Catalina,Vargas,Conchalí,7096606-9,1979-12-11,Mormona,False,True, LOCAL, HVSK45,2024-02-26,SI,3,559434,normal,19
+124,Pedro,Contreras,Renca,6052667-2,1979-08-24,Católica,False,True, AMBOS, KKYY58,2024-09-30,SI,4,825601,vegano,35
+125,Juan,Contreras,Conchalí,3746004-4,1980-07-18,Atea,False,True, APP, IANG15,2024-07-11,SI,4,6066,vegano,48
+126,Juan,López,Renca,4318629-9,1982-10-02,Agnóstica,False,True, APP, KFFC04,2024-06-09,SI,3,501318,normal,27
+127,Diego,Pérez,Conchalí,4935711-7,1988-06-04,Mormona,False,True, APP, IENP30,2024-08-15,NO,3,477235,vegano,31
+128,Carolina,López,Vitacura,9849104-K,1997-09-28,Atea,False,True, APP, UYEX73,2024-03-22,NO,2,237065,vegano,48
+129,Daniel,Morales,Las Condes,17408415-7,1992-02-12,Atea,False,True, APP, LUUK84,2024-02-17,SI,1,471302,vegetariano,59
+130,Juan,González,Renca,19963147-0,1972-07-05,Testigos de Jehová,False,True, AMBOS, ENXN77,2024-11-07,SI,3,407734,vegetariano,55
+131,Pedro,Rojas,Las Condes,12879162-0,1981-03-08,Evangélica,False,True, LOCAL, NWKM66,2024-10-14,NO,2,278896,No Aplica,42
+132,Camila,Soto,Las Condes,20367678-6,1974-10-10,Agnóstica,False,True, AMBOS, TRSK76,2024-11-11,SI,2,189657,normal,48
+133,María,López,Renca,6211631-5,1985-01-27,Católica,False,True, AMBOS, YXQQ90,2024-09-09,SI,1,148892,vegetariano,56
+134,María,Rodríguez,Vitacura,9304515-7,1989-10-20,Agnóstica,False,True, APP, KUHP63,2024-12-02,SI,2,142411,No Aplica,36
+135,Catalina,Rodríguez,Vitacura,2780782-8,1983-11-20,Evangélica,False,True, AMBOS, JFSE98,2024-06-21,NO,1,455324,normal,58
+136,Tomás,Muñoz,Renca,23762016-K,1996-08-06,Mormona,False,True, LOCAL, TWGO43,2024-01-28,SI,4,221885,vegetariano,52
+137,Camila,Díaz,Renca,22237790-0,1981-09-19,Evangélica,False,True, APP, MLNU97,2024-04-06,SI,4,942107,vegetariano,59
+138,Felipe,Silva,Providencia,24370149-K,1998-03-03,Católica,False,True, LOCAL, RJAN14,2024-03-16,SI,5,842962,vegano,11
+139,Diego,Fuentes,Vitacura,21409302-2,2000-05-19,Atea,False,True, AMBOS, BAFY75,2024-11-22,SI,3,3454,normal,23
+140,Sebastián,Muñoz,Las Condes,17523076-9,1972-05-18,Atea,False,True, LOCAL, YKXS52,2024-02-27,NO,3,658004,No Aplica,15
+141,Camila,López,Vitacura,19589215-6,1996-05-10,Católica,False,True, AMBOS, WYUF66,2024-12-06,SI,1,301958,normal,22
+142,Tomás,Contreras,Conchalí,4641859-K,1973-11-10,Agnóstica,False,True, APP, VARI10,2024-03-02,NO,4,733817,normal,60
+143,Felipe,Morales,Providencia,12505449-8,1970-08-23,Mormona,False,True, APP, HAKP32,2024-01-09,NO,1,715822,vegano,22
+144,Juan,Díaz,Providencia,17943786-4,1982-05-13,Mormona,False,True, AMBOS, DQRO21,2024-07-15,SI,2,53439,No Aplica,13
+145,Tomás,Rojas,Conchalí,7576711-0,2000-07-19,Evangélica,False,True, AMBOS, ZVBO53,2024-02-06,SI,2,12970,vegetariano,25
+146,Valentina,Vargas,Vitacura,12775318-0,1984-04-08,Evangélica,False,True, AMBOS, OOPE18,2024-11-29,SI,2,187908,vegano,41
+147,Pedro,Martínez,Las Condes,20673404-3,1996-02-03,Mormona,False,True, AMBOS, FEFA09,2024-05-07,SI,3,571041,vegano,12
+148,Camila,López,Conchalí,19995114-9,1976-06-16,Agnóstica,False,True, LOCAL, BIZE43,2024-01-18,SI,1,495608,vegano,42
+149,Catalina,Muñoz,Renca,2648480-4,1993-05-25,Atea,False,True, LOCAL, FCTP60,2024-04-27,SI,4,75288,No Aplica,59
+150,Diego,Vargas,Vitacura,4188708-7,1970-05-11,Atea,False,True, APP, LLOQ19,2024-04-28,SI,5,637450,vegetariano,19
+151,Diego,Morales,Providencia,7043737-6,1986-07-07,Mormona,False,True, AMBOS, IDUK76,2024-11-07,SI,4,655221,vegano,45
+152,Francisca,González,Vitacura,18979307-3,1978-01-18,Atea,False,True, APP, PCWN64,2024-06-17,NO,5,819985,vegano,22
+153,Juan,Pérez,Vitacura,2669408-6,1983-06-21,Católica,False,True, AMBOS, XJTG81,2024-08-27,SI,4,346446,No Aplica,16
+154,Catalina,Pérez,Las Condes,23931974-2,1999-10-17,Mormona,False,True, LOCAL, HWHR15,2024-11-23,SI,1,187511,normal,13
+155,Sebastián,Pérez,Vitacura,19633439-4,1991-12-17,Católica,False,True, AMBOS, OQDO70,2024-03-25,SI,5,599442,vegetariano,21
+156,Javiera,Fuentes,Providencia,12014339-5,1973-10-28,Católica,False,True, LOCAL, LXQF73,2024-05-09,NO,4,601559,normal,14
+157,Felipe,Vargas,Renca,20286838-K,1988-02-02,Católica,False,True, APP, XIEZ66,2024-11-26,NO,3,89069,vegetariano,10
+158,Daniel,Morales,Vitacura,21079301-1,1989-09-01,Testigos de Jehová,False,True, LOCAL, GVMX86,2024-12-15,NO,2,699148,vegetariano,33
+159,Ana,López,Renca,24308925-5,1995-09-21,Mormona,False,True, APP, MREO61,2024-07-02,NO,3,915714,normal,30
+160,Catalina,Rodríguez,Renca,23984901-6,1995-09-18,Atea,False,True, AMBOS, QIUO93,2024-04-15,SI,1,235959,vegetariano,19
+161,Valentina,González,Providencia,16349842-1,1990-04-23,Testigos de Jehová,False,True, AMBOS, SLCA16,2024-11-22,NO,3,980415,No Aplica,35
+162,Diego,Muñoz,Conchalí,21754401-7,1979-07-12,Agnóstica,False,True, APP, DLKP94,2024-12-30,SI,4,884537,No Aplica,60
+163,Ana,Martínez,Renca,11710675-6,1986-06-02,Evangélica,False,True, LOCAL, ZLFI81,2024-11-22,NO,4,903185,vegano,16
+164,Carolina,Silva,Vitacura,5031723-4,1991-12-27,Atea,False,True, AMBOS, PAFK71,2024-08-14,NO,2,792922,No Aplica,50
+165,Tomás,Morales,Vitacura,19695215-2,1977-01-13,Católica,False,True, APP, UAMX21,2024-10-27,SI,2,365714,normal,55
+166,Pedro,Torres,Providencia,10903985-3,1978-03-14,Testigos de Jehová,False,True, AMBOS, WNEW79,2024-05-21,NO,5,156109,vegetariano,55
+167,Camila,Morales,Las Condes,7419472-9,1973-05-07,Agnóstica,False,True, AMBOS, KJZE05,2024-03-08,NO,2,704321,vegano,18
+168,Sebastián,López,Las Condes,5494421-7,1976-04-09,Testigos de Jehová,False,True, APP, JIWA28,2024-04-30,NO,1,200756,vegetariano,39
+169,Tomás,González,Providencia,14399909-2,1998-07-25,Testigos de Jehová,False,True, LOCAL, DQQB85,2024-08-15,SI,4,662642,vegetariano,36
+170,Daniel,Torres,Las Condes,5274048-7,1991-05-17,Católica,False,True, LOCAL, KWCK77,2024-07-18,NO,5,855101,vegano,28
+171,Catalina,Fuentes,Providencia,9465663-K,1986-12-01,Mormona,False,True, LOCAL, REDT16,2024-06-03,NO,1,495892,normal,12
+172,Ana,Díaz,Las Condes,14927982-2,1975-09-17,Atea,False,True, APP, PFQA04,2025-01-24,NO,1,336368,No Aplica,16
+173,Ana,Soto,Renca,1102746-6,1993-10-27,Mormona,False,True, LOCAL, BDCX59,2024-11-03,SI,5,705066,normal,26
+174,Catalina,Pérez,Vitacura,4554863-5,1997-07-23,Católica,False,True, AMBOS, NLVP90,2024-02-12,SI,3,951399,No Aplica,49
+175,Javiera,Muñoz,Providencia,8377656-0,1999-08-24,Evangélica,False,True, LOCAL, GCQF81,2024-05-28,NO,1,550679,vegetariano,22
+176,Pedro,Rodríguez,Conchalí,11850053-9,1997-05-06,Atea,False,True, LOCAL, YYBS88,2025-02-23,NO,5,315276,No Aplica,43
+177,Javiera,Vargas,Las Condes,14280873-0,1975-08-15,Católica,False,True, LOCAL, HQPC07,2024-10-25,SI,4,388854,vegetariano,46
+178,Pedro,Soto,Conchalí,15570932-4,1991-09-06,Católica,False,True, APP, HRAF06,2024-04-22,NO,2,78786,No Aplica,53
+179,Camila,Rojas,Providencia,16162235-4,1978-06-04,Agnóstica,False,True, AMBOS, QAWJ60,2024-04-22,NO,2,634893,vegano,53
+180,Pedro,Muñoz,Las Condes,11398945-9,1970-06-02,Católica,False,True, APP, XLMU81,2025-02-19,SI,2,239839,vegetariano,56
+181,Carolina,Rodríguez,Renca,16624160-K,1985-03-26,Evangélica,False,True, AMBOS, ETFZ27,2024-04-06,SI,2,818130,normal,23
+182,Catalina,Fuentes,Las Condes,5002548-9,1970-07-22,Católica,False,True, LOCAL, VGFR15,2024-10-13,SI,5,151326,vegano,27
+183,Carolina,González,Renca,2209910-8,1975-02-04,Atea,False,True, AMBOS, UXJJ41,2025-01-05,SI,2,744544,vegetariano,13
+184,Diego,Rodríguez,Renca,5409614-3,2000-11-23,Católica,False,True, APP, XAYW85,2025-02-23,NO,1,844343,vegano,38
+185,Carolina,Vargas,Providencia,13312779-8,1986-05-05,Católica,False,True, LOCAL, BCYZ06,2025-02-10,NO,5,266495,normal,50
+186,Catalina,López,Conchalí,6905777-2,1997-03-21,Atea,False,True, AMBOS, IJBD93,2025-01-11,SI,1,193989,vegano,36
+187,Carolina,Vargas,Vitacura,19826901-8,1995-10-13,Católica,False,True, APP, NWCR55,2024-12-18,SI,3,92187,vegetariano,21
+188,Diego,Muñoz,Vitacura,3186820-3,1978-12-07,Mormona,False,True, AMBOS, YVVS75,2024-07-24,NO,1,836969,vegano,28
+189,Ana,Silva,Las Condes,17864278-2,1996-02-26,Atea,False,True, AMBOS, WRIR95,2024-06-18,SI,4,357836,normal,42
+190,Felipe,Torres,Vitacura,5594391-5,1975-06-10,Atea,False,True, APP, OIQW42,2024-09-17,SI,4,220829,No Aplica,38
+191,Pedro,Rodríguez,Conchalí,18182511-1,1987-09-07,Agnóstica,False,True, LOCAL, CRAB31,2024-03-19,SI,4,430068,vegano,59
+192,Camila,Fuentes,Conchalí,17441155-7,1979-03-26,Evangélica,False,True, AMBOS, RHJJ07,2024-04-13,NO,4,899428,No Aplica,25
+193,María,Torres,Renca,1655898-2,2000-05-21,Evangélica,False,True, AMBOS, HMOT13,2024-11-17,SI,1,328059,normal,11
+194,Camila,Silva,Providencia,1314658-6,1999-12-28,Testigos de Jehová,False,True, LOCAL, VIME07,2025-01-10,SI,2,579079,No Aplica,20
+195,Daniel,Torres,Vitacura,5390998-1,1981-10-01,Católica,False,True, LOCAL, SJQY03,2024-12-28,NO,1,178237,vegano,55
+196,Diego,Fuentes,Renca,13916927-1,1982-12-18,Testigos de Jehová,False,True, APP, ZOMY53,2025-01-02,SI,5,852644,normal,51
+197,Camila,Fuentes,Providencia,20395070-5,1991-02-03,Agnóstica,False,True, AMBOS, GJMD24,2024-09-03,NO,5,59872,vegano,53
+198,María,Pérez,Providencia,6271719-K,1972-10-19,Evangélica,False,True, AMBOS, RCGJ80,2024-02-14,SI,3,842498,vegano,47
+199,Tomás,Pérez,Renca,13998412-9,1977-02-06,Evangélica,False,True, LOCAL, QDZS33,2024-08-30,SI,4,510022,normal,41
+200,Francisca,Silva,Providencia,10796448-7,1994-02-06,Mormona,False,True, AMBOS, PSEN06,2024-07-19,NO,4,120270,normal,13
+201,Javiera,Torres,Conchalí,15563953-9,1985-07-02,Católica,False,True, LOCAL, ZPNY45,2024-08-12,SI,4,684836,vegetariano,10
+202,Ana,Martínez,Vitacura,4571022-K,1992-08-17,Mormona,False,True, LOCAL, VXIS82,2024-09-25,NO,3,74733,No Aplica,27
+203,Valentina,López,Las Condes,15112927-7,1988-11-27,Evangélica,False,True, APP, FALG28,2024-04-06,NO,2,85723,No Aplica,36
+204,Diego,Torres,Vitacura,3941797-9,1992-02-15,Mormona,False,True, LOCAL, KCYA24,2024-03-06,NO,3,254195,vegano,18
+205,Francisca,Vargas,Providencia,6582377-2,1973-03-02,Atea,False,True, LOCAL, QXJH57,2025-01-16,SI,1,701842,normal,52
+206,Felipe,Contreras,Las Condes,13031102-4,1989-07-05,Evangélica,False,True, LOCAL, TKEE09,2024-10-02,NO,3,842715,No Aplica,29
+207,Francisca,Rojas,Las Condes,1288781-7,1984-11-02,Mormona,False,True, LOCAL, IOOH58,2024-04-14,SI,1,395777,vegetariano,36
+208,Diego,Morales,Renca,22845228-9,1993-02-08,Católica,False,True, APP, CXVS69,2024-02-19,NO,2,326919,vegano,56
+209,Carolina,Torres,Renca,8170805-3,1971-01-18,Testigos de Jehová,False,True, LOCAL, VEYD54,2024-02-23,SI,2,611867,vegano,12
+210,Francisca,Muñoz,Conchalí,4375133-6,1985-12-07,Atea,False,True, APP, TKRM62,2025-02-02,NO,5,454108,vegano,54
+211,Ana,Rojas,Las Condes,3674147-3,1978-06-24,Mormona,False,True, AMBOS, LTFZ38,2024-10-09,NO,5,716464,No Aplica,38
+212,Camila,Vargas,Renca,2612055-1,1983-09-14,Atea,False,True, LOCAL, CFIE56,2024-07-17,SI,5,349684,vegano,23
+213,Camila,Contreras,Conchalí,11818682-6,1974-11-02,Mormona,False,True, AMBOS, WTZI00,2024-01-08,NO,1,53579,normal,51
+214,Camila,Rojas,Providencia,12533171-8,1970-09-12,Agnóstica,False,True, AMBOS, UPLK47,2024-04-30,SI,4,982710,normal,56
+215,Catalina,López,Providencia,15927663-5,1983-01-27,Testigos de Jehová,False,True, LOCAL, RGAU59,2024-04-11,NO,4,704399,vegano,11
+216,María,Soto,Vitacura,14231450-9,1981-06-13,Evangélica,False,True, LOCAL, XAWB37,2024-10-10,NO,3,161985,vegetariano,27
+217,Ana,Muñoz,Providencia,13715952-K,1981-04-19,Evangélica,False,True, LOCAL, RZEM61,2025-01-04,NO,1,10299,vegetariano,21
+218,Ana,Martínez,Vitacura,17803437-5,1998-03-17,Católica,False,True, LOCAL, FFKE39,2025-01-24,NO,5,903257,vegano,59
+219,María,Silva,Vitacura,13796309-4,1988-04-13,Evangélica,False,True, APP, HLPI16,2024-09-18,NO,4,971881,vegetariano,38
+220,Javiera,Contreras,Renca,4257428-7,1972-12-01,Testigos de Jehová,False,True, LOCAL, XMOK33,2024-01-26,SI,1,879881,vegano,38
+221,Carolina,Silva,Las Condes,2557141-K,1996-12-28,Católica,False,True, AMBOS, RZHM74,2024-09-07,SI,3,565994,normal,21
+222,Francisca,Martínez,Las Condes,7771596-7,1974-11-08,Católica,False,True, APP, OKXN33,2024-11-04,NO,2,215487,No Aplica,50
+223,Camila,López,Las Condes,20642753-1,1994-04-24,Testigos de Jehová,False,True, AMBOS, JLWE42,2025-02-06,SI,1,570343,normal,36
+224,Ana,Vargas,Providencia,1385018-6,1978-09-20,Mormona,False,True, APP, PBQT02,2024-11-16,SI,3,19885,normal,12
+225,Valentina,Soto,Las Condes,12641872-8,1994-11-14,Mormona,False,True, AMBOS, VDKH83,2024-03-23,SI,1,917821,vegetariano,30
+226,Catalina,Morales,Providencia,15187693-5,1978-02-27,Católica,False,True, AMBOS, IZVM11,2024-06-05,NO,5,191893,normal,17
+227,Pedro,Martínez,Vitacura,21386372-K,1978-09-09,Atea,False,True, APP, EUBQ11,2024-01-26,NO,1,704711,normal,19
+228,Sebastián,Pérez,Vitacura,8181339-6,1979-11-24,Mormona,False,True, AMBOS, IVHA12,2024-03-22,NO,1,371665,vegetariano,52
+229,Ana,Torres,Vitacura,8368085-7,1980-01-24,Evangélica,False,True, AMBOS, SLNO75,2024-08-21,SI,4,614948,vegano,48
+230,Pedro,Martínez,Providencia,22823275-0,1972-11-21,Evangélica,False,True, AMBOS, VISG26,2024-07-13,NO,5,242152,normal,54
+231,Catalina,Pérez,Providencia,13506214-6,1987-03-13,Evangélica,False,True, APP, BTWO43,2024-10-20,NO,5,294352,vegano,38
+232,Daniel,Torres,Renca,24361788-K,1990-12-22,Atea,False,True, LOCAL, PIQF40,2024-07-04,SI,4,868439,vegano,19
+233,Tomás,Contreras,Providencia,13142560-0,1986-08-18,Testigos de Jehová,False,True, LOCAL, DCUF48,2024-12-24,NO,2,34844,No Aplica,39
+234,Javiera,Rojas,Providencia,4993033-K,1975-07-18,Atea,False,True, LOCAL, WLVJ09,2025-02-03,NO,5,779526,vegano,21
+235,Felipe,Rojas,Conchalí,20789434-6,1985-01-05,Mormona,False,True, AMBOS, HSEV51,2024-12-10,SI,1,897522,vegetariano,47
+236,Javiera,Rodríguez,Las Condes,10567326-4,1997-10-01,Atea,False,True, LOCAL, AFTK98,2024-11-23,SI,4,307609,normal,48
+237,Tomás,Torres,Renca,5556505-8,1976-10-14,Atea,False,True, LOCAL, ZAHA27,2024-02-18,SI,4,764325,No Aplica,27
+238,Diego,Martínez,Conchalí,14694459-0,1996-02-06,Evangélica,False,True, AMBOS, RFLF06,2024-05-01,SI,4,247718,vegano,18
+239,Pedro,Díaz,Conchalí,13694942-K,1992-05-12,Testigos de Jehová,False,True, APP, BMZO62,2024-06-15,SI,1,50308,vegano,35
+240,Camila,Morales,Renca,17810942-1,1972-03-23,Evangélica,False,True, APP, XWDA92,2024-06-24,NO,2,232886,No Aplica,53
+241,Juan,Soto,Renca,20414210-6,1984-01-15,Mormona,False,True, APP, WLBS08,2024-09-27,NO,3,49355,vegetariano,60
+242,Ana,Soto,Renca,12491959-2,2000-04-24,Mormona,False,True, LOCAL, OJWF28,2024-12-24,NO,2,787034,No Aplica,34
+243,Javiera,Vargas,Providencia,7662149-7,1996-11-28,Católica,False,True, APP, JEEF75,2024-04-08,SI,1,210866,vegetariano,31
+244,Diego,Silva,Vitacura,10372004-4,1982-08-25,Católica,False,True, LOCAL, HJAI51,2024-05-02,SI,5,222516,normal,19
+245,Ana,Rodríguez,Providencia,7679991-1,1972-10-23,Evangélica,False,True, APP, QFYK30,2024-05-10,NO,3,409189,vegano,36
+246,Ana,Martínez,Conchalí,3793221-3,1983-08-25,Testigos de Jehová,False,True, LOCAL, YNFL22,2025-02-22,SI,4,165121,No Aplica,44
+247,Camila,Fuentes,Conchalí,3376453-7,1980-12-15,Testigos de Jehová,False,True, LOCAL, NBIX73,2025-02-12,SI,1,938177,vegano,41
+248,Pedro,Contreras,Renca,7931506-0,1984-10-14,Atea,False,True, AMBOS, DBXO70,2024-01-18,NO,2,221035,normal,45
+249,Diego,González,Conchalí,4757433-1,1973-12-01,Atea,False,True, LOCAL, DCEL22,2024-07-14,SI,1,522053,normal,45
+250,Juan,Rojas,Las Condes,11143075-6,1979-04-03,Evangélica,False,True, APP, XWWX20,2024-06-24,NO,4,260999,vegano,16
+251,Pedro,Soto,Providencia,21085706-0,1984-05-23,Atea,False,True, AMBOS, EGQR30,2024-06-23,NO,4,211082,normal,15
+252,Pedro,Fuentes,Conchalí,7457586-2,1974-04-27,Testigos de Jehová,False,True, APP, IGWB03,2024-01-16,SI,1,411474,vegetariano,56
+253,Sebastián,Vargas,Conchalí,16612870-6,1994-07-13,Agnóstica,False,True, LOCAL, IDQR72,2025-02-09,SI,4,160940,vegetariano,19
+254,Carolina,Muñoz,Vitacura,5208592-6,1976-09-05,Mormona,False,True, LOCAL, FRVW81,2025-02-01,SI,4,478374,normal,20
+255,Javiera,González,Conchalí,11055887-2,1990-04-05,Evangélica,False,True, LOCAL, MKBM67,2025-02-15,NO,1,208236,No Aplica,29
+256,Sebastián,López,Las Condes,17551769-3,1996-02-07,Agnóstica,False,True, AMBOS, XKMK67,2024-06-24,NO,1,621966,vegano,47
+257,Javiera,López,Conchalí,13661799-0,1978-11-14,Agnóstica,False,True, AMBOS, RZYO70,2024-07-22,NO,3,2893,vegetariano,17
+258,Valentina,Vargas,Renca,23076311-9,2000-10-22,Testigos de Jehová,False,True, LOCAL, DBDJ51,2024-01-14,NO,3,505267,normal,39
+259,Carolina,Rodríguez,Renca,2090056-3,1976-10-11,Agnóstica,False,True, AMBOS, MSSE11,2024-10-23,NO,2,339260,normal,13
+260,Carolina,Torres,Las Condes,3344891-0,1991-04-18,Atea,False,True, APP, YXWV40,2025-01-11,SI,3,485252,No Aplica,13
+261,Daniel,Torres,Providencia,13814569-7,2000-05-03,Mormona,False,True, LOCAL, BXBY19,2024-11-02,NO,5,563476,No Aplica,28
+262,Catalina,Silva,Conchalí,14637713-0,2000-01-02,Mormona,False,True, AMBOS, LQKZ72,2025-01-12,NO,2,363196,normal,17
+263,Carolina,González,Conchalí,14020670-9,1987-05-06,Atea,False,True, LOCAL, GJOV31,2024-12-22,NO,4,148120,normal,24
+264,Sebastián,Muñoz,Conchalí,22367571-9,1999-06-12,Testigos de Jehová,False,True, LOCAL, CQDD79,2024-11-20,SI,1,824264,No Aplica,51
+265,Felipe,Rojas,Renca,23095667-7,1972-12-24,Atea,False,True, AMBOS, IWRA57,2024-11-03,NO,3,163400,vegetariano,23
+266,Catalina,Torres,Vitacura,18273863-8,1994-12-23,Atea,False,True, AMBOS, PUKI70,2024-10-13,SI,3,380628,No Aplica,37
+267,Juan,Fuentes,Vitacura,20444707-1,1982-06-20,Agnóstica,False,True, APP, MMPE29,2025-01-30,NO,2,951914,vegetariano,26
+268,Diego,Silva,Renca,24420561-5,1975-06-19,Mormona,False,True, LOCAL, QSAX18,2024-02-28,NO,3,674881,vegano,31
+269,Juan,González,Providencia,20532614-6,1977-10-05,Testigos de Jehová,False,True, LOCAL, SLBJ39,2024-03-06,SI,3,105846,vegetariano,22
+270,Daniel,Martínez,Conchalí,17385836-1,1988-09-19,Evangélica,False,True, APP, IPAS72,2024-01-18,SI,2,661295,vegano,54
+271,Pedro,Fuentes,Las Condes,16089130-0,1982-03-25,Evangélica,False,True, APP, RAZL26,2024-08-01,SI,1,500926,No Aplica,20
+272,Felipe,Vargas,Providencia,10995266-4,1995-04-26,Mormona,False,True, AMBOS, AHCB46,2024-06-10,SI,2,129957,normal,51
+273,Diego,Torres,Conchalí,21042110-6,1997-06-28,Evangélica,False,True, APP, MPUA61,2024-12-05,SI,1,423396,normal,29
+274,Tomás,Contreras,Conchalí,9258950-1,1999-03-05,Evangélica,False,True, APP, JQLF04,2024-05-15,NO,1,632059,vegetariano,30
+275,Francisca,López,Vitacura,7870073-4,1989-06-20,Agnóstica,False,True, LOCAL, HJUW48,2024-07-23,SI,4,159130,vegetariano,41
+276,Diego,Silva,Vitacura,13537618-3,1999-05-17,Atea,False,True, LOCAL, VOTC16,2025-01-27,NO,3,377991,normal,56
+277,Felipe,Martínez,Conchalí,22601498-5,1977-12-08,Mormona,False,True, LOCAL, TKKW08,2024-08-10,SI,5,303208,normal,45
+278,Sebastián,Contreras,Renca,14981576-7,1983-06-20,Atea,False,True, AMBOS, EGUI41,2025-01-29,NO,5,197552,No Aplica,27
+279,Tomás,López,Providencia,10982172-1,2000-04-25,Mormona,False,True, AMBOS, DDWC53,2024-12-07,SI,4,784367,No Aplica,20
+280,Tomás,Vargas,Conchalí,17753782-9,1975-08-04,Mormona,False,True, APP, TQMI38,2024-06-30,SI,3,479131,vegano,58
+281,Javiera,Silva,Providencia,13048703-3,1993-03-05,Católica,False,True, AMBOS, ZUCV66,2024-10-16,SI,3,297387,vegetariano,14
+282,Javiera,Fuentes,Providencia,1332074-8,2000-01-21,Evangélica,False,True, AMBOS, CWTU54,2024-07-25,SI,3,899010,vegetariano,35
+283,Daniel,Morales,Vitacura,23468244-K,1975-03-11,Mormona,False,True, LOCAL, ASWO69,2024-10-28,SI,5,974885,vegano,26
+284,Carolina,Vargas,Renca,19867449-4,1981-09-16,Evangélica,False,True, AMBOS, PKYX48,2024-07-25,SI,1,126262,vegano,40
+285,Sebastián,Rojas,Las Condes,14128932-2,1993-05-21,Evangélica,False,True, AMBOS, UTUF99,2024-10-19,NO,4,398130,vegetariano,44
+286,Francisca,Muñoz,Renca,21293428-3,1981-10-08,Católica,False,True, LOCAL, APPS41,2024-07-29,SI,5,877291,No Aplica,40
+287,Carolina,González,Providencia,17420991-K,1986-08-07,Mormona,False,True, LOCAL, SPXU27,2024-08-25,NO,5,801580,No Aplica,36
+288,Tomás,Pérez,Renca,1037331-K,1970-09-03,Evangélica,False,True, LOCAL, CMVL40,2024-02-07,NO,4,737753,No Aplica,36
+289,Pedro,Pérez,Providencia,20997101-1,1986-07-26,Católica,False,True, LOCAL, HRLP18,2025-02-08,SI,5,315549,No Aplica,24
+290,Valentina,Contreras,Providencia,5054008-1,1993-11-19,Agnóstica,False,True, LOCAL, FYQH43,2024-01-23,SI,1,992738,normal,12
+291,Tomás,Fuentes,Las Condes,12330658-9,1986-05-13,Atea,False,True, APP, SQER69,2025-01-02,SI,3,48614,normal,39
+292,Juan,Vargas,Vitacura,15704942-9,1980-03-25,Mormona,False,True, APP, EHSN77,2025-02-22,SI,3,251953,vegano,57
+293,Felipe,Morales,Vitacura,17732798-0,1991-07-20,Agnóstica,False,True, APP, YGVK69,2024-12-12,SI,1,615829,vegano,52
+294,Camila,López,Conchalí,22711988-8,1995-06-13,Católica,False,True, LOCAL, QGES47,2025-02-22,NO,1,87764,No Aplica,46
+295,Carolina,López,Renca,16336316-K,1995-11-28,Testigos de Jehová,False,True, APP, XGXM48,2024-07-23,SI,3,775847,No Aplica,18
+296,Felipe,Muñoz,Renca,14393244-3,1995-04-28,Mormona,False,True, LOCAL, FAMW90,2024-12-12,NO,5,353433,vegetariano,36
+297,Daniel,Muñoz,Providencia,11708770-0,1996-04-02,Testigos de Jehová,False,True, LOCAL, VPQJ53,2024-12-03,SI,5,290081,vegetariano,18
+298,Catalina,Rojas,Conchalí,17752248-1,1973-05-17,Testigos de Jehová,False,True, LOCAL, LARW50,2024-12-12,NO,4,820598,normal,54
+299,Pedro,Rodríguez,Providencia,2360554-6,1972-11-16,Agnóstica,False,True, APP, DVPX44,2024-11-16,SI,1,740154,normal,57
+300,Carolina,López,Conchalí,12387447-1,1985-12-21,Católica,False,True, LOCAL, DWGF18,2024-03-14,NO,5,271485,No Aplica,48
+301,María,Muñoz,Vitacura,14154594-9,1970-01-05,Mormona,False,True, APP, CIEQ82,2024-01-13,SI,1,503908,normal,47
+302,Carolina,Rojas,Renca,17114553-8,1972-07-22,Evangélica,False,True, LOCAL, BXWU59,2024-09-26,SI,5,174631,normal,56
+303,Javiera,Morales,Providencia,2195508-6,1985-11-18,Testigos de Jehová,False,True, AMBOS, OMBJ13,2024-02-03,NO,2,185403,No Aplica,60
+304,María,Rodríguez,Las Condes,21538575-2,1977-10-23,Agnóstica,False,True, LOCAL, UEPP06,2024-01-22,NO,3,48310,vegano,19
+305,Daniel,Pérez,Las Condes,24414759-3,1994-12-18,Evangélica,False,True, APP, WTGE16,2024-10-18,NO,3,157589,normal,14
+306,Diego,González,Renca,6634486-K,1986-03-26,Mormona,False,True, APP, NVDB92,2024-12-12,NO,1,40644,normal,58
+307,Felipe,Silva,Providencia,21692900-4,1976-04-17,Atea,False,True, AMBOS, KVZS56,2024-08-26,SI,4,440916,normal,12
+308,Felipe,Pérez,Vitacura,2748851-K,1978-06-26,Testigos de Jehová,False,True, AMBOS, ILHW88,2025-01-20,SI,4,94587,vegetariano,37
+309,Diego,Morales,Renca,16897622-4,1997-05-25,Testigos de Jehová,False,True, APP, HGNQ16,2024-09-30,NO,4,752203,normal,24
+310,Juan,Morales,Vitacura,1973565-6,1983-11-03,Testigos de Jehová,False,True, APP, REGT18,2024-07-17,SI,4,516630,vegetariano,28
+311,Valentina,Muñoz,Providencia,5269820-0,1992-07-21,Mormona,False,True, AMBOS, WUFB69,2024-03-15,SI,4,410464,vegetariano,44
+312,Tomás,Rodríguez,Vitacura,5301342-2,2000-07-14,Testigos de Jehová,False,True, APP, FTGX38,2024-08-27,SI,4,564279,vegano,34
+313,Javiera,Muñoz,Las Condes,9527725-K,1993-03-25,Evangélica,False,True, LOCAL, CZEC17,2024-01-23,NO,5,927750,No Aplica,14
+314,María,Martínez,Renca,6483524-6,1974-03-13,Atea,False,True, APP, QHFC03,2024-02-17,NO,3,644443,vegano,13
+315,Javiera,Martínez,Las Condes,3154520-K,1989-07-02,Evangélica,False,True, LOCAL, WVBM04,2024-04-28,SI,2,817310,No Aplica,30
+316,Valentina,Vargas,Vitacura,1137051-9,1970-03-17,Atea,False,True, LOCAL, PVRG13,2025-02-02,SI,2,463940,normal,34
+317,Ana,Morales,Conchalí,7452683-7,1988-09-04,Mormona,False,True, AMBOS, PSEB74,2024-02-27,SI,3,291009,vegano,51
+318,María,Pérez,Providencia,11112892-8,1992-11-22,Atea,False,True, LOCAL, XUXD73,2024-07-29,NO,1,785818,normal,24
+319,Francisca,Soto,Las Condes,21412909-4,1989-08-02,Católica,False,True, APP, FXBZ67,2024-11-05,NO,3,764285,vegano,29
+320,Francisca,Vargas,Vitacura,15950315-1,1979-01-05,Testigos de Jehová,False,True, APP, OUTK93,2024-08-20,SI,2,245574,No Aplica,17
+321,Tomás,Martínez,Las Condes,14517631-K,1996-11-04,Católica,False,True, LOCAL, OCOS36,2024-08-30,NO,1,187851,normal,45
+322,Valentina,Fuentes,Renca,13013294-4,1984-06-11,Agnóstica,False,True, LOCAL, KQDQ25,2024-09-14,NO,3,52013,vegano,53
+323,Ana,Vargas,Renca,6518042-1,1998-06-11,Agnóstica,False,True, LOCAL, NFFG93,2024-03-24,SI,2,129788,No Aplica,18
+324,Juan,Pérez,Las Condes,19110388-2,1987-12-23,Agnóstica,False,True, APP, UQVN35,2024-05-11,NO,2,449077,No Aplica,54
+325,Felipe,González,Providencia,9331767-K,1994-10-21,Agnóstica,False,True, APP, NFPM86,2024-08-16,NO,2,963057,vegetariano,58
+326,Tomás,González,Vitacura,16411099-0,1986-09-24,Atea,False,True, LOCAL, RBUV19,2024-10-22,SI,3,471356,No Aplica,46
+327,Pedro,Rodríguez,Providencia,1908953-3,2000-03-12,Mormona,False,True, LOCAL, BQJE89,2024-04-15,SI,3,271504,vegetariano,20
+328,Tomás,López,Renca,23822592-2,1996-10-15,Testigos de Jehová,False,True, LOCAL, EZGO13,2024-07-28,SI,4,400522,normal,52
+329,Ana,Martínez,Conchalí,3851795-3,1978-05-25,Evangélica,False,True, APP, JDOU08,2025-01-30,SI,3,157264,vegano,25
+330,Diego,Díaz,Conchalí,23861231-4,1975-07-03,Católica,False,True, APP, CSTE60,2024-11-25,SI,2,899297,No Aplica,10
+331,Francisca,Silva,Vitacura,17656436-9,1983-01-14,Agnóstica,False,True, LOCAL, XSUQ75,2024-03-23,NO,5,338739,normal,34
+332,Juan,Morales,Providencia,18304561-K,1998-04-20,Católica,False,True, LOCAL, CHXW24,2024-04-06,SI,2,336076,vegano,30
+333,Valentina,Rodríguez,Renca,10819728-5,1987-04-02,Atea,False,True, LOCAL, PANY89,2024-12-16,SI,4,794426,normal,58
+334,Camila,Muñoz,Renca,4200243-7,1984-12-03,Mormona,False,True, LOCAL, FAWG13,2024-07-29,NO,4,582787,normal,41
+335,Catalina,Morales,Vitacura,6906603-8,1972-05-22,Mormona,False,True, APP, UJVT16,2024-12-13,NO,2,874798,vegetariano,21
+336,Felipe,Vargas,Renca,1231851-0,1982-05-07,Evangélica,False,True, APP, AYUS57,2024-11-15,SI,5,512581,normal,47
+337,Catalina,Vargas,Las Condes,6052984-1,1991-05-27,Testigos de Jehová,False,True, LOCAL, KNKQ37,2024-06-24,NO,1,906291,normal,23
+338,Felipe,Silva,Las Condes,6789303-4,1986-07-18,Atea,False,True, APP, OYUH22,2024-01-24,SI,2,401533,normal,30
+339,Felipe,Rodríguez,Conchalí,14701663-8,1976-06-10,Agnóstica,False,True, AMBOS, UTZQ72,2024-10-26,SI,3,300718,No Aplica,49
+340,Ana,Contreras,Las Condes,22753488-5,1980-07-19,Atea,False,True, APP, GUOX90,2024-11-28,SI,3,934947,No Aplica,18
+341,Francisca,Díaz,Providencia,5231531-K,1989-05-17,Testigos de Jehová,False,True, LOCAL, EKIM91,2024-01-08,NO,2,97056,vegetariano,32
+342,Javiera,Muñoz,Las Condes,22420639-9,1988-03-04,Evangélica,False,True, APP, JESO17,2024-10-18,SI,5,391333,normal,48
+343,Catalina,González,Providencia,7742319-2,1970-04-12,Mormona,False,True, LOCAL, ANKR96,2024-10-09,SI,2,591733,normal,54
+344,María,Torres,Renca,16405355-5,1974-06-24,Católica,False,True, LOCAL, SQNC08,2024-06-24,NO,5,414040,vegetariano,31
+345,Tomás,González,Las Condes,14814857-0,1995-05-07,Católica,False,True, APP, XRPC63,2024-11-26,NO,5,755480,No Aplica,45
+346,Javiera,Martínez,Renca,1339292-7,1992-12-03,Católica,False,True, LOCAL, HXQD65,2024-05-10,NO,1,763269,vegetariano,18
+347,Francisca,Muñoz,Providencia,9944454-1,1972-10-19,Testigos de Jehová,False,True, LOCAL, NYRR07,2024-06-03,NO,5,206957,normal,26
+348,María,Rodríguez,Conchalí,1159097-7,1985-01-18,Mormona,False,True, APP, VJWU21,2025-02-09,NO,2,236297,vegetariano,18
+349,Diego,López,Las Condes,12929101-K,1994-11-17,Agnóstica,False,True, LOCAL, SFHQ44,2024-08-16,NO,1,247400,normal,35
+350,Valentina,Rodríguez,Providencia,8152889-6,1988-08-08,Agnóstica,False,True, AMBOS, JOXX13,2024-03-28,NO,3,972393,No Aplica,15
+351,Diego,Rodríguez,Las Condes,4528708-4,1976-01-14,Evangélica,False,True, APP, TMCU72,2024-11-29,NO,2,187439,No Aplica,50
+352,Ana,Vargas,Providencia,19828519-6,1989-04-04,Evangélica,False,True, APP, RPET88,2024-01-03,SI,4,292197,vegetariano,38
+353,Catalina,Vargas,Providencia,10610743-2,1983-06-07,Testigos de Jehová,False,True, LOCAL, GLLO26,2024-09-28,SI,2,361319,No Aplica,49
+354,Pedro,Torres,Vitacura,12030699-5,1998-08-03,Mormona,False,True, LOCAL, WXVT01,2024-06-13,SI,3,974788,No Aplica,20
+355,Carolina,Soto,Vitacura,2459983-3,1971-03-02,Evangélica,False,True, AMBOS, LXQH19,2024-10-14,NO,1,188085,vegano,60
+356,Sebastián,Contreras,Renca,9325057-5,1994-12-13,Testigos de Jehová,False,True, APP, QDFT61,2025-02-11,SI,4,983730,vegano,25
+357,Juan,Martínez,Renca,16274481-K,1993-06-28,Evangélica,False,True, APP, LJOR68,2024-06-28,NO,2,651241,vegano,16
+358,Felipe,López,Vitacura,2243032-7,1975-07-20,Mormona,False,True, AMBOS, RTOA98,2024-12-17,NO,4,915759,vegano,58
+359,Felipe,Soto,Providencia,2006863-9,1988-06-08,Mormona,False,True, AMBOS, VQXM85,2024-10-02,NO,4,601822,normal,44
+360,María,Rojas,Conchalí,14944822-5,2000-01-17,Católica,False,True, APP, FCZD32,2024-02-20,SI,4,71219,vegano,46
+361,Javiera,Pérez,Las Condes,22000423-6,1990-08-12,Católica,False,True, APP, XAUK48,2024-07-09,NO,4,127341,No Aplica,48
+362,Sebastián,Morales,Providencia,15775139-5,1998-04-03,Evangélica,False,True, LOCAL, UYYU37,2024-11-19,SI,5,6415,No Aplica,16
+363,Ana,Contreras,Las Condes,6162739-1,1983-07-04,Mormona,False,True, LOCAL, SSMO78,2024-12-07,NO,4,846232,vegano,10
+364,Carolina,Morales,Providencia,23581782-9,1976-09-09,Evangélica,False,True, AMBOS, HKKK19,2024-04-11,NO,5,378207,No Aplica,55
+365,Francisca,Muñoz,Las Condes,8034827-4,1995-12-17,Testigos de Jehová,False,True, LOCAL, WQTK16,2024-04-26,NO,3,757148,vegetariano,16
+366,Daniel,Silva,Providencia,18160597-9,1970-09-14,Católica,False,True, APP, TIOD16,2024-09-29,NO,1,880839,vegetariano,27
+367,Ana,Rodríguez,Renca,20732615-1,2000-05-14,Agnóstica,False,True, LOCAL, VQIG63,2024-10-05,NO,3,56008,normal,21
+368,Ana,Rodríguez,Vitacura,24789861-1,1985-12-10,Evangélica,False,True, LOCAL, CHRA83,2024-04-19,SI,5,2516,No Aplica,28
+369,Ana,Soto,Renca,13739417-0,1990-05-03,Agnóstica,False,True, LOCAL, IEPV10,2024-04-24,SI,2,346607,No Aplica,16
+370,Pedro,Rodríguez,Conchalí,8269370-K,1987-05-10,Testigos de Jehová,False,True, LOCAL, ZKZW87,2024-09-22,SI,3,780223,vegetariano,17
+371,Felipe,Rodríguez,Providencia,8640586-5,1983-02-15,Agnóstica,False,True, APP, FLVR57,2024-04-30,NO,5,823940,vegetariano,12
+372,Daniel,Soto,Las Condes,17110255-3,1995-04-07,Testigos de Jehová,False,True, LOCAL, BXRY92,2024-11-16,SI,3,464871,vegano,51
+373,Diego,Martínez,Conchalí,2214732-3,1993-07-14,Agnóstica,False,True, AMBOS, LULQ72,2024-03-04,SI,4,971115,vegano,27
+374,Camila,Muñoz,Providencia,24765584-0,1983-04-10,Testigos de Jehová,False,True, AMBOS, ZIWU40,2025-02-16,NO,3,157558,No Aplica,49
+375,Valentina,Silva,Vitacura,19356003-2,1970-06-05,Católica,False,True, AMBOS, KQGV55,2025-01-16,SI,1,57178,No Aplica,24
+376,Francisca,Rojas,Renca,4567732-K,1985-09-12,Atea,False,True, APP, DPVT45,2024-04-25,SI,2,680512,vegano,22
+377,Catalina,Soto,Las Condes,22292902-4,1986-01-24,Mormona,False,True, APP, XQPG53,2024-02-05,SI,1,886718,vegetariano,12
+378,Felipe,Soto,Vitacura,23987640-4,1983-12-24,Atea,False,True, AMBOS, KZQU60,2025-02-14,SI,4,882481,No Aplica,35
+379,Diego,López,Conchalí,12570587-1,1970-07-08,Evangélica,False,True, APP, MYWS77,2024-09-09,SI,2,953216,vegano,43
+380,Catalina,Silva,Conchalí,16216534-8,1995-12-05,Testigos de Jehová,False,True, LOCAL, CCQB59,2025-02-17,SI,4,902348,vegetariano,35
+381,Catalina,Contreras,Las Condes,21069574-5,1984-12-19,Evangélica,False,True, AMBOS, EFRI52,2024-04-24,SI,3,176956,normal,40
+382,Carolina,Morales,Providencia,15535080-6,1998-03-11,Agnóstica,False,True, AMBOS, LOKS51,2024-12-08,SI,3,680933,vegano,36
+383,Felipe,Soto,Vitacura,20949472-8,1979-04-08,Católica,False,True, APP, YRIJ63,2024-12-31,NO,4,388897,vegetariano,13
+384,Camila,López,Conchalí,11875524-3,1980-09-20,Católica,False,True, APP, GOKZ13,2024-12-18,SI,4,758105,normal,27
+385,Javiera,Contreras,Conchalí,24797276-5,1985-06-25,Testigos de Jehová,False,True, APP, PUXF73,2024-06-23,NO,3,816743,normal,41
+386,Camila,Torres,Vitacura,16783879-0,1993-11-19,Atea,False,True, AMBOS, JKLJ49,2024-06-02,NO,3,176002,vegetariano,37
+387,Sebastián,González,Providencia,20213286-3,1975-10-07,Evangélica,False,True, AMBOS, SLGC35,2024-08-29,NO,5,665713,vegetariano,21
+388,Diego,Rodríguez,Providencia,7240282-0,1998-12-04,Católica,False,True, AMBOS, RUVC67,2024-06-02,NO,2,909637,normal,49
+389,Francisca,Silva,Vitacura,4259623-K,1991-07-20,Evangélica,False,True, APP, BGGH17,2024-05-26,NO,5,637840,No Aplica,52
+390,Francisca,Fuentes,Conchalí,8960553-9,1973-01-27,Católica,False,True, AMBOS, URBJ06,2024-02-11,NO,5,825034,vegetariano,48
+391,Valentina,Muñoz,Renca,2209794-6,1989-06-06,Testigos de Jehová,False,True, APP, IPFT34,2024-10-23,SI,3,17957,normal,56
+392,Diego,González,Las Condes,4657173-8,1974-03-13,Agnóstica,False,True, LOCAL, AQFE95,2025-01-09,NO,4,280618,vegano,44
+393,Valentina,Torres,Conchalí,20667753-8,1994-09-17,Agnóstica,False,True, AMBOS, TJJS75,2024-05-23,SI,1,189990,vegetariano,47
+394,Catalina,Díaz,Vitacura,2395588-1,1995-10-18,Agnóstica,False,True, AMBOS, ULKI29,2024-07-29,SI,2,578611,vegetariano,18
+395,Juan,López,Conchalí,3411364-5,1974-07-02,Atea,False,True, AMBOS, NFSB69,2024-09-08,NO,5,598172,normal,42
+396,Juan,Muñoz,Renca,15011435-7,1990-10-23,Evangélica,False,True, LOCAL, XLFA51,2024-06-11,NO,3,272633,normal,25
+397,Felipe,Pérez,Conchalí,21938924-8,1975-11-05,Agnóstica,False,True, LOCAL, FSLM91,2024-05-05,NO,1,975883,vegano,55
+398,Felipe,Contreras,Las Condes,20142494-1,1992-03-18,Católica,False,True, LOCAL, HXNJ23,2025-01-13,SI,5,365477,normal,21
+399,Daniel,González,Conchalí,17017867-K,1993-02-28,Católica,False,True, LOCAL, TCUG88,2024-12-04,SI,2,10308,No Aplica,27
+400,Camila,Soto,Providencia,4403884-6,1994-12-18,Evangélica,False,True, AMBOS, JXNL22,2024-04-02,SI,3,842453,normal,18
+401,Sebastián,Contreras,Conchalí,16842578-3,1991-11-24,Agnóstica,False,True, LOCAL, XGJR56,2025-01-29,SI,2,175544,normal,55
+402,Sebastián,Díaz,Providencia,14997168-8,1992-10-16,Mormona,False,True, LOCAL, IPFT65,2024-03-15,NO,3,295526,vegano,31
+403,Diego,Silva,Conchalí,20615827-1,1988-09-26,Evangélica,False,True, LOCAL, TIYZ41,2024-06-27,NO,1,277916,vegano,46
+404,Daniel,Silva,Renca,3946704-6,1979-05-19,Agnóstica,False,True, APP, QMCS91,2024-07-14,SI,4,888981,No Aplica,21
+405,Daniel,López,Vitacura,16455091-5,1979-07-03,Testigos de Jehová,False,True, APP, MWRJ66,2024-08-22,SI,4,22211,No Aplica,19
+406,Sebastián,Martínez,Renca,24314965-7,1993-12-25,Mormona,False,True, APP, IJHN10,2024-09-05,SI,1,384271,No Aplica,22
+407,Valentina,Martínez,Providencia,22573300-7,1979-10-08,Católica,False,True, APP, GUIE86,2024-12-24,NO,4,162855,vegano,24
+408,Daniel,Rojas,Providencia,10612234-2,1980-07-16,Evangélica,False,True, AMBOS, KCWW62,2024-02-19,NO,5,178546,normal,53
+409,Valentina,Vargas,Providencia,20133103-K,1993-10-21,Católica,False,True, LOCAL, EAAP24,2024-02-02,SI,1,696582,No Aplica,24
+410,Daniel,Fuentes,Renca,21243590-2,1995-11-11,Agnóstica,False,True, AMBOS, ZSJI92,2024-07-11,SI,1,554420,No Aplica,44
+411,Diego,Rodríguez,Vitacura,24498273-5,1986-01-06,Atea,False,True, LOCAL, NLPX62,2024-08-10,NO,3,287317,No Aplica,13
+412,Daniel,Soto,Renca,3016089-4,1995-03-03,Mormona,False,True, AMBOS, ZDXU66,2024-05-12,SI,3,899702,normal,54
+413,Carolina,Martínez,Conchalí,3788054-K,1987-01-22,Atea,False,True, APP, IGYT64,2025-02-05,NO,3,446843,vegano,59
+414,Carolina,Martínez,Conchalí,14575625-1,1977-09-01,Atea,False,True, LOCAL, POWB39,2024-04-19,SI,2,217696,normal,18
+415,Juan,Fuentes,Providencia,3930321-3,1977-07-05,Atea,False,True, LOCAL, TMYZ60,2024-01-25,SI,1,906584,vegano,48
+416,Camila,Muñoz,Vitacura,22998861-1,1979-12-08,Agnóstica,False,True, LOCAL, YUCF04,2025-02-17,NO,3,560417,No Aplica,51
+417,Carolina,Torres,Las Condes,10683767-8,1987-05-27,Católica,False,True, APP, KBEF93,2024-09-04,SI,3,348260,normal,44
+418,Juan,Muñoz,Las Condes,9445525-1,1975-06-21,Testigos de Jehová,False,True, AMBOS, JSTP78,2024-02-28,SI,4,459283,vegetariano,21
+419,Pedro,López,Conchalí,9642899-5,1971-06-18,Atea,False,True, AMBOS, GPLN14,2024-12-10,SI,5,622084,No Aplica,29
+420,María,Morales,Renca,20054030-1,1970-04-02,Agnóstica,False,True, AMBOS, PFPQ83,2024-12-23,SI,2,433911,No Aplica,33
+421,Francisca,Soto,Providencia,6163251-4,1995-05-07,Evangélica,False,True, LOCAL, UTXG52,2024-07-04,NO,4,805553,vegano,11
+422,Felipe,González,Las Condes,21511422-8,1998-06-25,Católica,False,True, APP, ZRXS72,2024-06-01,SI,2,178935,normal,40
+423,Valentina,Díaz,Renca,20316972-8,1986-11-19,Católica,False,True, AMBOS, RXSK82,2024-10-31,SI,5,170498,vegano,13
+424,Catalina,González,Providencia,9366842-1,1988-11-24,Atea,False,True, LOCAL, FSJA20,2024-06-04,NO,4,861480,vegetariano,48
+425,Javiera,Muñoz,Vitacura,24474238-6,1985-10-27,Evangélica,False,True, LOCAL, JYTN26,2024-06-19,SI,1,121717,vegetariano,48
+426,Francisca,Martínez,Conchalí,16015576-0,1994-02-26,Evangélica,False,True, LOCAL, WBRN51,2024-01-10,SI,3,718435,No Aplica,13
+427,Valentina,Martínez,Renca,23638998-7,1992-07-06,Católica,False,True, LOCAL, FECY52,2024-08-31,SI,3,272566,No Aplica,43
+428,Tomás,López,Conchalí,12412340-2,1970-05-12,Testigos de Jehová,False,True, AMBOS, TRLI91,2024-06-10,NO,4,982152,vegano,21
+429,Valentina,Rojas,Las Condes,6134681-3,1984-06-16,Evangélica,False,True, APP, EARG04,2024-02-28,SI,3,376077,vegetariano,24
+430,Javiera,Martínez,Vitacura,4104207-9,1983-05-21,Agnóstica,False,True, AMBOS, QJRL24,2024-05-27,SI,1,657709,normal,52
+431,Francisca,Morales,Renca,21222323-9,1971-04-13,Evangélica,False,True, LOCAL, TZUV11,2024-09-12,NO,2,106722,vegano,57
+432,Javiera,Contreras,Las Condes,22009362-K,1982-12-01,Atea,False,True, APP, SGTO27,2024-07-17,SI,2,297478,vegetariano,21
+433,Valentina,Morales,Vitacura,21639744-4,1981-10-25,Agnóstica,False,True, AMBOS, XOAV70,2024-04-01,SI,3,161069,normal,40
+434,Carolina,Morales,Conchalí,7493578-8,1977-11-17,Evangélica,False,True, AMBOS, PWKW32,2024-08-04,SI,5,550551,normal,55
+435,Juan,Rodríguez,Renca,4721345-2,1988-10-13,Testigos de Jehová,False,True, LOCAL, EOKI25,2024-12-27,NO,4,455080,vegetariano,43
+436,Carolina,Martínez,Vitacura,21109147-9,1985-09-08,Agnóstica,False,True, APP, IGKC37,2025-01-09,SI,2,45893,vegano,59
+437,Juan,Pérez,Renca,17004255-7,1974-10-11,Testigos de Jehová,False,True, APP, OYLP56,2024-03-25,NO,1,182108,No Aplica,37
+438,Valentina,Silva,Vitacura,14690773-3,1975-12-17,Católica,False,True, LOCAL, HHQQ54,2024-11-06,SI,1,293902,No Aplica,51
+439,María,Soto,Providencia,5975926-4,1981-05-23,Evangélica,False,True, AMBOS, AXSD83,2024-02-02,SI,5,339080,vegano,60
+440,Camila,López,Conchalí,2614158-3,1994-07-01,Agnóstica,False,True, LOCAL, AGHE64,2024-09-14,SI,1,460522,normal,19
+441,Daniel,Martínez,Las Condes,13345193-5,1971-08-10,Atea,False,True, APP, UHTI65,2025-01-13,SI,2,899451,normal,41
+442,Valentina,González,Renca,2609754-1,1990-06-02,Atea,False,True, AMBOS, GAAK90,2025-02-12,NO,5,396410,No Aplica,34
+443,Sebastián,Fuentes,Conchalí,6450906-3,1983-01-04,Mormona,False,True, AMBOS, RMHV94,2024-04-28,NO,2,866396,normal,36
+444,Sebastián,Torres,Renca,11435348-5,1975-04-06,Católica,False,True, APP, QMTJ88,2024-10-18,NO,4,511235,vegetariano,39
+445,Ana,Torres,Providencia,5982796-0,1976-11-06,Mormona,False,True, APP, XXLQ95,2024-07-14,SI,5,911815,vegano,13
+446,Camila,Rojas,Conchalí,5845680-2,1999-04-05,Mormona,False,True, LOCAL, HWGE18,2024-11-30,SI,3,845048,No Aplica,56
+447,Juan,González,Renca,4912735-9,1984-02-18,Católica,False,True, APP, KQYV56,2024-09-23,NO,4,57194,normal,28
+448,Sebastián,Muñoz,Las Condes,5448997-8,1985-12-28,Agnóstica,False,True, APP, DSQF91,2024-09-17,NO,5,662428,normal,25
+449,María,Pérez,Providencia,19550856-9,2000-11-21,Agnóstica,False,True, AMBOS, GNFF46,2024-08-26,SI,5,731075,No Aplica,27
+450,Valentina,González,Renca,11521612-0,1973-08-17,Agnóstica,False,True, APP, IYXX69,2024-07-14,SI,4,411221,normal,26
+451,Ana,López,Providencia,4804312-7,1999-01-03,Mormona,False,True, AMBOS, CLCF45,2025-02-21,NO,1,801220,No Aplica,54
+452,Diego,Morales,Renca,20307135-3,1974-01-16,Agnóstica,False,True, APP, TNBF15,2024-06-09,NO,5,168520,vegano,25
+453,Javiera,Rodríguez,Vitacura,17235069-0,1980-09-05,Católica,False,True, APP, JQPW60,2024-06-20,SI,5,899527,normal,43
+454,Francisca,Vargas,Las Condes,21645464-2,1982-03-25,Testigos de Jehová,False,True, APP, GSQO58,2024-04-21,NO,5,817310,No Aplica,25
+455,Javiera,Muñoz,Renca,11822897-9,1983-02-11,Evangélica,False,True, AMBOS, RTAA11,2025-01-01,SI,3,162276,vegano,25
+456,Valentina,Vargas,Renca,18941366-1,1984-02-16,Atea,False,True, APP, YVXT64,2024-10-31,SI,4,867653,vegano,36
+457,Diego,Fuentes,Renca,12550451-5,1971-03-20,Mormona,False,True, AMBOS, DRAJ88,2025-01-13,SI,2,989980,No Aplica,36
+458,Carolina,Pérez,Renca,10458483-7,1980-09-24,Agnóstica,False,True, AMBOS, VLWN97,2024-12-18,SI,3,2543,vegano,60
+459,Valentina,Contreras,Providencia,22804718-K,1975-11-14,Atea,False,True, LOCAL, BWLL62,2024-10-28,SI,2,159600,vegetariano,38
+460,Catalina,Martínez,Las Condes,8515077-4,1996-08-27,Atea,False,True, AMBOS, YSTG54,2024-05-27,SI,2,974749,vegano,44
+461,Catalina,Rojas,Las Condes,22124977-1,2000-04-15,Católica,False,True, AMBOS, MBSP36,2024-03-17,NO,1,18110,normal,24
+462,Tomás,López,Renca,4047751-9,1995-01-19,Agnóstica,False,True, LOCAL, MAWZ15,2024-04-23,SI,5,780500,No Aplica,57
+463,Ana,Contreras,Las Condes,19288761-5,1976-10-01,Mormona,False,True, AMBOS, QWJN34,2024-03-11,NO,4,407266,vegano,46
+464,Felipe,Morales,Renca,17638645-2,1987-10-09,Atea,False,True, APP, QWAN90,2024-07-07,NO,1,611218,vegetariano,19
+465,Felipe,Morales,Conchalí,24972687-7,1996-05-27,Evangélica,False,True, APP, HUZQ79,2024-06-11,NO,3,998229,No Aplica,25
+466,Juan,Pérez,Conchalí,15671614-6,1996-03-05,Testigos de Jehová,False,True, AMBOS, FDCA73,2024-06-06,NO,5,234208,vegano,57
+467,Tomás,Muñoz,Las Condes,8728369-0,1996-06-09,Católica,False,True, LOCAL, QODE34,2024-10-16,NO,1,710062,vegano,56
+468,Tomás,Fuentes,Conchalí,22116966-2,1973-10-17,Católica,False,True, LOCAL, JXDW65,2024-07-14,NO,1,790197,normal,12
+469,Diego,Morales,Conchalí,2748358-5,1987-05-13,Mormona,False,True, APP, LBXG54,2024-03-14,SI,4,736165,vegano,35
+470,Camila,Vargas,Providencia,11938379-K,1991-04-02,Testigos de Jehová,False,True, AMBOS, FSPL03,2025-02-02,NO,3,146183,No Aplica,57
+471,Tomás,Díaz,Vitacura,1018472-K,2000-09-07,Testigos de Jehová,False,True, LOCAL, HGTJ94,2024-12-16,NO,4,543030,vegano,57
+472,Catalina,Contreras,Vitacura,18375281-2,1977-08-15,Atea,False,True, APP, FKCS12,2025-01-26,NO,1,688753,vegetariano,13
+473,Ana,Torres,Providencia,17174489-K,1976-06-26,Católica,False,True, APP, HMZD17,2024-10-23,NO,5,803228,vegetariano,44
+474,Diego,Contreras,Vitacura,18207887-5,1994-02-14,Mormona,False,True, APP, NBZR34,2024-02-19,NO,3,659907,normal,36
+475,Catalina,Rojas,Las Condes,22778636-1,1990-08-23,Atea,False,True, APP, SGBV94,2024-06-16,SI,1,412796,No Aplica,30
+476,Tomás,Muñoz,Conchalí,10525772-4,1987-01-28,Evangélica,False,True, AMBOS, ZEEB76,2024-12-24,NO,3,12549,No Aplica,26
+477,Tomás,Contreras,Providencia,19980729-3,1987-05-07,Agnóstica,False,True, LOCAL, CUTP46,2024-05-10,NO,4,724939,vegano,39
+478,Javiera,Pérez,Renca,3804958-5,1992-08-13,Católica,False,True, LOCAL, NZPF52,2024-01-21,NO,5,735401,normal,42
+479,Valentina,Silva,Las Condes,13973799-7,1980-10-03,Católica,False,True, APP, VGKM24,2024-09-05,SI,4,899591,vegetariano,41
+480,Catalina,Silva,Conchalí,6983602-K,1985-09-05,Testigos de Jehová,False,True, AMBOS, FOKZ49,2024-02-10,SI,2,607944,No Aplica,47
+481,Carolina,Contreras,Las Condes,3123663-0,1999-08-05,Evangélica,False,True, AMBOS, GTYD49,2024-09-24,NO,2,436471,normal,18
+482,Ana,Soto,Conchalí,3160640-3,1985-11-23,Evangélica,False,True, AMBOS, ZQFR09,2024-03-02,NO,3,805524,No Aplica,25
+483,Sebastián,Silva,Providencia,6189211-7,1987-12-10,Testigos de Jehová,False,True, LOCAL, HHLG47,2024-11-10,SI,5,435810,vegano,54
+484,Sebastián,Morales,Vitacura,18266773-0,1979-11-17,Agnóstica,False,True, LOCAL, JNLG46,2024-08-22,NO,2,975768,No Aplica,23
+485,Valentina,Soto,Las Condes,12425725-5,1982-10-07,Atea,False,True, APP, SBSN78,2025-01-28,NO,5,713429,vegano,58
+486,Sebastián,Díaz,Las Condes,16743425-8,1971-11-25,Católica,False,True, APP, QRAB50,2024-11-01,NO,1,518375,No Aplica,38
+487,Ana,Martínez,Providencia,9443821-7,1979-06-12,Agnóstica,False,True, LOCAL, EUHD98,2024-01-10,NO,2,563509,vegano,43
+488,Catalina,González,Vitacura,11954695-8,1994-12-11,Mormona,False,True, AMBOS, MHPN67,2024-01-13,SI,4,786174,normal,22
+489,Ana,Contreras,Vitacura,13957170-3,1974-06-14,Católica,False,True, LOCAL, WIEX85,2024-10-15,NO,5,801331,No Aplica,60
+490,Valentina,Rojas,Providencia,17666947-0,1976-02-17,Testigos de Jehová,False,True, AMBOS, WJXV06,2024-08-31,SI,1,350921,vegetariano,57
+491,Felipe,González,Renca,15860417-5,1975-03-25,Evangélica,False,True, LOCAL, UGOH31,2024-03-16,NO,3,800819,No Aplica,10
+492,Daniel,Muñoz,Las Condes,4926323-6,1977-07-22,Atea,False,True, LOCAL, KURX79,2024-01-05,SI,5,125446,normal,39
+493,Valentina,Rojas,Vitacura,7945598-9,1970-08-14,Agnóstica,False,True, LOCAL, KXMG55,2024-07-06,NO,5,337448,vegetariano,35
+494,Daniel,Muñoz,Conchalí,17457915-6,1996-06-10,Agnóstica,False,True, AMBOS, KGCF05,2024-01-03,NO,2,253657,vegetariano,20
+495,Camila,López,Vitacura,14711040-5,1974-09-01,Agnóstica,False,True, LOCAL, KCVZ91,2025-01-21,SI,4,767999,No Aplica,11
+496,Diego,Contreras,Vitacura,13008715-9,1988-07-27,Católica,False,True, LOCAL, HDDB34,2024-08-04,SI,2,265863,vegetariano,41
+497,Catalina,Rodríguez,Conchalí,3013815-5,1976-09-08,Atea,False,True, LOCAL, SJDH79,2024-05-05,NO,5,929033,vegano,10
+498,Daniel,Martínez,Vitacura,3825712-9,1999-09-26,Agnóstica,False,True, LOCAL, JZKB68,2024-02-22,SI,5,111646,vegetariano,56
+499,Carolina,Morales,Las Condes,17690792-4,1996-07-13,Atea,False,True, LOCAL, WDLP60,2024-03-20,NO,2,430777,vegano,50
+500,Sebastián,Fuentes,Vitacura,3214738-0,1996-08-25,Mormona,False,True, APP, JUFL07,2024-09-20,NO,2,885034,vegetariano,20
